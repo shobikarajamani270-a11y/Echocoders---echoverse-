@@ -1,4 +1,4 @@
-# Echocoders---echoverse-
+# Echocoders-Echoverse-
 Title : EchoVerse – An AI-Powered Audiobook Creation Tool
 
 Description: EchoVerse is a generative AI-based audiobook creation system that transforms user- provided text into expressive, downloadable audio content. Designed for accessibility, convenience, and content reusability, the tool empowers students, professionals, and visually impaired users to convert written material into natural-sounding narrations with customizable tone and voice. The system accepts either pasted text or uploaded .txt files and displays the original content within the interface. Upon selection of a desired tone—Neutral, Suspenseful, or Inspiring— the text is rewritten using the IBM Watsonx Granite large language model. Prompt chaining is used to ensure the tone-specific rewrite remains faithful to the original meaning while enhancing stylistic quality.
